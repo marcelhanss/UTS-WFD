@@ -1,0 +1,1 @@
+<h1 class="text-center m-4 font-bold text-3xl">Airplane Booking System</h1>
